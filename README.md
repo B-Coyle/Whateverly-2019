@@ -34,7 +34,7 @@ XCO is an app designed for users to choose a hiking trail or campground based on
 
 <h2>Screenshots</h2>
 <h3>Main Start Screen</h3>
-[![localhost-3001-1.png](https://i.postimg.cc/bvzHM2bj/localhost-3001-1.png)](https://postimg.cc/fVr9SyBH)
+![Imgur](https://i.imgur.com/r8TEmgS.png)
 
 <h3>Appended Cards</h3>
 
